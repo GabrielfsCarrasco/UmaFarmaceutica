@@ -8,6 +8,6 @@ function funcao_b() {
 function funcao_1(){
     alert("Eu Te Amo Muito! 💟 ")
     alert("Vc E muito Linda, Muito Gata, Um Mulherão. 😍 ")
-    alert("Vc Minha Bebezinha 🥰 ")
+    alert("Vc é Minha Bebezinha 🥰 ")
     
 }
